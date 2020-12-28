@@ -1,2 +1,2 @@
-# ValorantRankedPoints
-Small program that makes a simple API request to determine your ranked point movement.
+# PROJECT HAS MOVED OVER TO NEW PLACE, WITH MORE STUFF INCLUDED!
+[CLICK HERE](https://github.com/RumbleMike/ValorantStreamOverlay)

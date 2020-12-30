@@ -136,7 +136,7 @@ namespace GetRankedPoints
                             int num = after - before;
 
                             string str = before < after ? str = $"Congrats you gained: {num} points"
-                                : str = $"Congrats you lost: {num * -1} points";
+                                : str = $"Unfortunately you lost: {num * -1} points";
 
                             Console.WriteLine(str);
                             Console.ReadKey();
